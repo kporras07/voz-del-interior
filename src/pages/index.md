@@ -2,12 +2,12 @@
 templateKey: index-page
 title: La Voz del Interior
 image: /img/home-jumbotron.jpg
-heading: Voz del Interior
-subheading: Una mirada a mis pensamientos puestos en palabras
+heading: heading 2
+subheading: Interior...
 mainpitch:
   title: Heading 1
   description: Description
-description: Del soleado Puntarenas vengo ... ...
+description: heading 2 description
 intro:
   blurbs: []
   heading: Testing
