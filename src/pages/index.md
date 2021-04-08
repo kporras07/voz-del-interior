@@ -5,11 +5,8 @@ image: /img/home-jumbotron.jpg
 heading: Voz del Interior
 subheading: Una mirada a mis pensamientos puestos en palabras
 mainpitch:
-  title: Acerca de
-  description: |-
-    Del soleado Puntarenas vengo
-    ...
-    ...
+  title: Heading 1
+  description: Description
 description: Del soleado Puntarenas vengo ... ...
 intro:
   blurbs: []
