@@ -2,12 +2,11 @@
 templateKey: index-page
 title: La Voz del Interior
 image: /img/home-jumbotron.jpg
-heading: heading 2
-subheading: Interior...
+heading: Una ventana a mi alma
+subheading: La voz del Interior
 mainpitch:
   title: Heading 1
   description: Description
-description: heading 2 description
 intro:
   blurbs: []
   heading: Testing
@@ -24,4 +23,7 @@ main:
   image3:
     alt: Cupping
     image: /img/flavor_wheel.jpg
+description: Este pequeño proyecto nace como la idea de tener un lugar donde
+  publicar escritos que de otro modo no encontrarían cómo ver la luz del
+  internet.
 ---
