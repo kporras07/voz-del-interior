@@ -9,6 +9,4 @@ tags:
   - Sorpresa
   - amor
 ---
-
-
 ![Mujer abriendo un regalo](/img/kira-auf-der-heide-v7jlnfukf14-unsplash.jpg)
